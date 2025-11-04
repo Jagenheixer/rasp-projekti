@@ -54,12 +54,13 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 ##  Projektin eteneminen
 
 - [x] Apache2 asennettu ja testattu
-- [x] Oma HTML-sivu luotu ja testattu
-- [ ] Raspberry Pi -reititin asennettu
-- [ ] Tietokantayhteys MySQL:ään
-- [ ] HTTP API / TCP Socket -rajapinta toteutettu
-- [ ] Python-ohjelma datan hakemiseen ja käsittelyyn
-- [ ] Koneoppimisen analyysi valmiina
+- [x] Oma etusivu (index.php) luotu ja testattu
+- [x] Tietokantayhteys MySQL:ään (raspberrydata)
+- [x] HTTP API (GET/POST) toteutettu ja testattu (api.php)
+- [x] Admin-kansio ja PHP-info salasanasuojattuna
+- [ ] Raspberry Pi -reititin asennettu ja konfiguroitu
+- [ ] Python-ohjelma datan hakemiseen/käsittelyyn
+- [ ] Koneoppimisen analyysi
 
 ##  Yhteenveto
 
