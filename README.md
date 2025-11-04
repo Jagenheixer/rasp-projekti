@@ -29,9 +29,21 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 
 ---
 
+
+##  Projektin eteneminen
+
+- [x] Apache2 asennettu ja testattu
+- [x] Oma HTML-sivu luotu ja testattu
+- [ ] Raspberry Pi -reititin asennettu
+- [ ] Tietokantayhteys MySQL:ään
+- [ ] HTTP API / TCP Socket -rajapinta toteutettu
+- [ ] Python-ohjelma datan hakemiseen ja käsittelyyn
+- [ ] Koneoppimisen analyysi valmiina
+
 ##  Yhteenveto
 
  Apache2 asennettu ja toimii  
  Oletussivu näkyi selaimessa  
  Omaa sisältöä muokattu onnistuneesti  
+
 
