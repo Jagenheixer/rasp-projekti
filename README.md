@@ -2,7 +2,7 @@
 
 ##  Apache2-asennus ja testaus
 
-Asensin **Apache2**-palvelimen Ubuntu Serverille ja testasin sen selaimella:
+Asennettu **Apache2**-palvelin Ubuntu Serverille ja testattu selaimella:
 
  [http://172.20.241.37/](http://172.20.241.37/)
 
@@ -13,7 +13,7 @@ Apache näytti onnistuneesti oletussivunsa:
 
 ##  Sivun muokkaus
 
-Muokkasin oletussivua (`index.html`) ja loin yksinkertaisen oman HTML-sivun.
+Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 
  **Tiedostopolku:**
 /var/www/html/index.html
