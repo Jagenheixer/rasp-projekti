@@ -46,7 +46,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 
 ---
 
-![Arkkitehtuurikuva](Arkkitehtuuri.png)
+
 
 ---
 
