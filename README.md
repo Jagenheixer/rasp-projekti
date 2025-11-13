@@ -19,9 +19,10 @@ Kerättyä dataa haetaan HTTP-rajapinnan kautta omalle kannettavalle kehitetyn *
 
 ##  Apache2-asennus ja testaus
 
-Asennettu **Apache2**-palvelin Ubuntu Serverille ja testattu selaimella:
+Asennettu **Apache2**-palvelin Ubuntu Serverille ja testattu selaimilla:
 
  [http://172.20.241.37/](http://172.20.241.37/)
+ [http://172.20.241.36/](http://172.20.241.36/)
 
 Apache näytti onnistuneesti oletussivunsa:  
 > *"It works!"*
