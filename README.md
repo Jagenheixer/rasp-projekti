@@ -68,11 +68,11 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 
 - [x] Apache + PHP + MySQL -skripti
 
-- [] tcpdump + pcap + Wireshark-analyysi
+- [ ] tcpdump + pcap + Wireshark-analyysi
 
-- [] Python-HTTP-client (CSV)
+- [ ]  Python-HTTP-client (CSV)
 
-- [] Python-MySQL-client
+- [ ] Python-MySQL-client
 
 - [x] SSH avaimilla kirjautuminen (ed25519)
 
