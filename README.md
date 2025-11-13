@@ -60,14 +60,24 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] Tietokantayhteys MySQL:ään (raspberrydata)
 - [x] HTTP API (GET/POST) toteutettu ja testattu (api.php)
 - [x] Admin-kansio ja PHP-info salasanasuojattuna
-- [ ] Raspberry Pi -reititin asennettu ja konfiguroitu
+- [x] Raspberry Pi -reititin asennettu ja konfiguroitu
 - [ ] Python-ohjelma datan hakemiseen/käsittelyyn
 - [ ] Koneoppimisen analyysi
 
+## Seuraavat  viikolta 3 
+
+- [x] Apache + PHP + MySQL -skripti
+
+- [] tcpdump + pcap + Wireshark-analyysi
+
+- [] Python-HTTP-client (CSV)
+
+- [] Python-MySQL-client
+
+- [x] SSH avaimilla kirjautuminen (ed25519)
+
+
 ##  Yhteenveto
 
- Apache2 asennettu ja toimii  
- Oletussivu näkyi selaimessa  
- Omaa sisältöä muokattu onnistuneesti  
-
+nnnnnnn
 
