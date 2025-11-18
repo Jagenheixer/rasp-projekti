@@ -77,9 +77,9 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] portit 22 (SSH) ja 80 (HTTP) sallittu
 - [x] ICMP sallittu
 - [x] "Takaovi" (193.167.100.97) sallittu
-- [ ] MYSQL- portin (3306) sääntö
-- [ ] firewall.sh pushattu Githubii
-- [ ] testattu että Tiina pääsee MYSQL:ään
+- [x] MYSQL- portin (3306) sääntö lisätty firewall.sh
+- [x] firewall.sh pushattu Githubii
+- [x] testattu että Tiina pääsee MYSQL:ään
 
 *Apache + PHP + MySQL*
 - [x] Apache 2 asennettu
