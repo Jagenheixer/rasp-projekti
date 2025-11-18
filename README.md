@@ -55,28 +55,81 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 
 
 ##  Projektin eteneminen
+**Viikko 1.**
+- [x] Github repo luotu
+- [x] Kanban- taulu tehty (backlog, TO DO, In Progress, Review, Done)
+- [x] README
+- [x] GIT BRANCHIT käytössä (main, linux-kokeilut, testailu ....)
+- [x] Markdown perusteet
+- [x] Videot ja Git/Github kurssit
+- [x] Projektin kuvaus ja repositorion rakenteen luonti
 
-- [x] Apache2 asennettu ja testattu
-- [x] Oma etusivu (index.php) luotu ja testattu
-- [x] Tietokantayhteys MySQL:ään (raspberrydata)
-- [x] HTTP API (GET/POST) toteutettu ja testattu (api.php)
-- [x] Admin-kansio ja PHP-info salasanasuojattuna
-- [x] Raspberry Pi -reititin asennettu ja konfiguroitu
-- [ ] Python-ohjelma datan hakemiseen/käsittelyyn
-- [ ] Koneoppimisen analyysi
+**Viikko 2**
+- [ ] Karin tehtävät / Katariina
+- [ ] Karin tehtävät / Tiina
 
-## Seuraavat  viikolta 3 
+**Viikko 3**
+- [x]  Raspberry Pi asennettu ja liitetty labran verkkoon
+- [x]  SSH- yhteys testattu onnistuneesti
 
-- [x] Apache + PHP + MySQL -skripti
+*Linux palomuuri (netfilter/iptables)*
+- [x] firewall.sh luotu
+- [x] portit 22 (SSH) ja 80 (HTTP) sallittu
+- [x] ICMP sallittu
+- [x] "Takaovi" (193.167.100.97) sallittu
+- [ ] MYSQL- portin (3306) sääntö
+- [ ] firewall.sh pushattu Githubii
+- [ ] testattu että Tiina pääsee MYSQL:ään
 
-- [ ] tcpdump + pcap + Wireshark-analyysi
+*Apache + PHP + MySQL*
+- [x] Apache 2 asennettu
+- [x] PHP asennettu / testattu
+- [x] MYSQL- testidata
+- [x] db_config.php luotu ja toimii
+- [x] luedataa.php toimii selaimessa
+- [x] rawdata- taulun data näkyy oikein
+- [x] virhee debugattu (PDO, bind-address, config polut yms)
 
-- [ ]  Python-HTTP-client (CSV)
+*Python -> MySQL
+- [x] Python virtuaaliympäristö luotu
+- [x] mysql-connector-python asennettu
+- [x] testisensori-skripti (rasp_insert_testi_data.py) toimii
+- [x] data näkyy rawdata- taulussa ja luedataa.php sivulla
 
-- [ ] Python-MySQL-client
+*BLE -> Raspberry -> MySQL (oikea anturi)
+- [x] Nordic nRF5340dk asennettu
+- [x] BLE- kehitysympäristö aloitettu
+- [ ] BLE- serveri Nordicilla
+- [ ] BLE- client Raspberryllä (bleak)
+- [ ] mittauksien tallennus MySQL:ään BLE:n kautta
 
-- [x] SSH avaimilla kirjautuminen (ed25519)
+*Liikenteen kaappaus ja analysointi*
+- [ ] tcpdump- kaappaus portista 89
+- [ ] pcap- tiedosto siirretty omalle koneelle
+- [ ] Wireshark analyysi
+     - [ ] TCP handshake kesto
+     - [ ] HTTP- vastauksen content- type
+     - [ ] HTTP- vastauksen server
+- [ ]  selaimella jotain?
 
+*Python HTTP- client*
+- [ ]  HTTP GET -> CSV (requests-lib)
+- [ ]  Tallennus groupid-data.csv
+- [ ]  testattu
+
+*Python TCP- client*
+- [ ] Socket yhteys porttiin 20000
+- [ ] lähettää groupid rivinvaihdolla
+- [ ] vastaanottaa max 300 riviä
+- [ ] tallentaa tiedostoksi
+- [ ] testattu
+- [ ] wireshark- analyysi tcp- siirrosta
+
+*SSH- avaimet*
+- [ ] ed25519- avainpari
+- [ ] julkinen avain palvelimelle
+- [ ] PasswordAuthentication pois
+- [ ] testattu -> SSH toimii vain avaimella
 
 ##  Yhteenveto
 
