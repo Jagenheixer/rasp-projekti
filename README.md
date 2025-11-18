@@ -66,7 +66,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 
 **Viikko 2**
 - [ ] Karin tehtävät / Katariina
-- [ ] Karin tehtävät / Tiina
+- [x] Karin tehtävät / Tiina
 
 **Viikko 3**
 - [x]  Raspberry Pi asennettu ja liitetty labran verkkoon
