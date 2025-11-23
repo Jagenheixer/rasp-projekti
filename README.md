@@ -38,7 +38,6 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
  **Tiedostopolku:**
 /var/www/html/index.html
 
-*Katariinan palvelin*
 ---
 ##  Palvelimen tiedot
 
@@ -88,7 +87,6 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] firewall.sh pushattu Githubii
 - [x] testattu että Tiina pääsee MYSQL:ään
 
----
 *Apache + PHP + MySQL*
 - [x] Apache 2 asennettu
 - [x] PHP asennettu / testattu
@@ -98,14 +96,12 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] rawdata- taulun data näkyy oikein
 - [x] virhee debugattu (PDO, bind-address, config polut yms)
 
----
 *Python -> MySQL
 - [x] Python virtuaaliympäristö luotu
 - [x] mysql-connector-python asennettu
 - [x] testisensori-skripti (rasp_insert_testi_data.py) toimii
 - [x] data näkyy rawdata- taulussa ja luedataa.php sivulla
 
----
 *BLE -> Raspberry -> MySQL (oikea anturi)
 - [x] Nordic nRF5340dk asennettu
 - [x] BLE- kehitysympäristö aloitettu
@@ -113,7 +109,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [ ] BLE- client Raspberryllä (bleak)
 - [ ] mittauksien tallennus MySQL:ään BLE:n kautta
 
----
+
 *Liikenteen kaappaus ja analysointi*
 - [x] tcpdump- kaappaus portista 89
 - [x] pcap- tiedosto siirretty omalle koneelle
@@ -123,13 +119,13 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
      - [x] HTTP- vastauksen server
 - [x]  selaimen devtoolseja kokeiltu
 
----
+
 *Python HTTP- client*
 - [x]  HTTP GET -> CSV (requests-lib)
 - [x]  Tallennus groupid-data.csv
 - [x]  testattu
 
----
+
 
 *Python TCP- client*
 - [x] Socket yhteys porttiin 20000
@@ -139,7 +135,6 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] testattu
 - [x] wireshark- analyysi tcp- siirrosta
 
----
 *SSH- avaimet*
 - [x] ed25519- avainpari
 - [x] julkinen avain palvelimelle
