@@ -157,4 +157,10 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 ##  Yhteenveto
 
 nnnnnnn
+---
+## Lisenssi
+
+Tämä projekti on julkaistu MIT-lisenssillä.
+
+© 2025 Katariina Koistinen
 
