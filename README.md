@@ -66,14 +66,13 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] Markdown perusteet
 - [x] Videot ja Git/Github kurssit
 - [x] Projektin kuvaus ja repositorion rakenteen luonti
----
 
-*Katariinan palvelin*
 ---
 **Viikko 2**
 - [x] Karin tehtävät / Katariina
 - [x] Karin tehtävät / Tiina
-
+---
+*Katariinan palvelin*
 **Viikko 3**
 - [x]  Raspberry Pi asennettu ja liitetty labran verkkoon
 - [x]  SSH- yhteys testattu onnistuneesti
