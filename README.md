@@ -110,7 +110,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
      - [x] TCP handshake kesto
      - [x] HTTP- vastauksen content- type
      - [x] HTTP- vastauksen server
-- [ ]  selaimella jotain?
+- [x]  selaimen devtoolseja kokeiltu
 
 *Python HTTP- client*
 - [x]  HTTP GET -> CSV (requests-lib)
