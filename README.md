@@ -105,7 +105,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] Nordic nRF5340dk asennettu
 - [x] BLE- kehitysympäristö aloitettu
 - [ ] BLE- serveri Nordicilla
-- [ ] BLE- client Raspberryllä (bleak)
+- [x] BLE- client Raspberryllä (bleak)
 - [ ] mittauksien tallennus MySQL:ään BLE:n kautta
 
 
@@ -154,6 +154,14 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 *Karin tehtäviä*
 - [ ] Katariina
 - [ ] Tiina
+
+---
+**Viikko 6**
+*Karin tehtäviä*
+- [ ] Katariina
+- [ ] Tiina
+
+---
 ##  Yhteenveto
 
 nnnnnnn
