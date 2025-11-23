@@ -118,12 +118,12 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x]  testattu
 
 *Python TCP- client*
-- [ ] Socket yhteys porttiin 20000
-- [ ] lähettää groupid rivinvaihdolla
-- [ ] vastaanottaa max 300 riviä
-- [ ] tallentaa tiedostoksi
-- [ ] testattu
-- [ ] wireshark- analyysi tcp- siirrosta
+- [x] Socket yhteys porttiin 20000
+- [x] lähettää groupid rivinvaihdolla
+- [x] vastaanottaa max 300 riviä
+- [x] tallentaa tiedostoksi
+- [x] testattu
+- [x] wireshark- analyysi tcp- siirrosta
 
 *SSH- avaimet*
 - [x] ed25519- avainpari
@@ -136,10 +136,13 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] Julkiset APIt ja Cataas
 - [x] Thunder Client - REST API testaus
 - [x] Oulun liikenteen GraphQL (POST)
-- [ ] Python TCP- socket client
-- [ ] Wireshark (TCP- client analyysi)
+- [x] Python TCP- socket client
+- [x] Wireshark (TCP- client analyysi)
 
- 
+**Viikko 5**
+*Karin tehtäviä*
+- [ ] Katariina
+- [ ] Tiina
 ##  Yhteenveto
 
 nnnnnnn
