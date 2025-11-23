@@ -26,6 +26,7 @@ Asennettu **Apache2**-palvelin Ubuntu Serverille ja testattu selaimilla:
 
 Apache näytti onnistuneesti oletussivunsa:  
 > *"It works!"*
+
 *Katariinan palvelin*
 ---
 
@@ -35,7 +36,9 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 
  **Tiedostopolku:**
 /var/www/html/index.html
+
 *Katariinan palvelin*
+---
 ##  Palvelimen tiedot
 
 | Ominaisuus | Arvo |
@@ -63,8 +66,9 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] Markdown perusteet
 - [x] Videot ja Git/Github kurssit
 - [x] Projektin kuvaus ja repositorion rakenteen luonti
-*Katariinan palvelin*
 
+*Katariinan palvelin*
+---
 **Viikko 2**
 - [x] Karin tehtävät / Katariina
 - [x] Karin tehtävät / Tiina
@@ -81,8 +85,9 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] MYSQL- portin (3306) sääntö lisätty firewall.sh
 - [x] firewall.sh pushattu Githubii
 - [x] testattu että Tiina pääsee MYSQL:ään
-*Katariinan palvelin*
 
+*Katariinan palvelin*
+---
 *Apache + PHP + MySQL*
 - [x] Apache 2 asennettu
 - [x] PHP asennettu / testattu
@@ -91,23 +96,26 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] luedataa.php toimii selaimessa
 - [x] rawdata- taulun data näkyy oikein
 - [x] virhee debugattu (PDO, bind-address, config polut yms)
-*Katariinan palvelin*
 
+*Katariinan palvelin*
+---
 *Python -> MySQL
 - [x] Python virtuaaliympäristö luotu
 - [x] mysql-connector-python asennettu
 - [x] testisensori-skripti (rasp_insert_testi_data.py) toimii
 - [x] data näkyy rawdata- taulussa ja luedataa.php sivulla
-*Katariinan palvelin*
 
+*Katariinan palvelin*
+---
 *BLE -> Raspberry -> MySQL (oikea anturi)
 - [x] Nordic nRF5340dk asennettu
 - [x] BLE- kehitysympäristö aloitettu
 - [ ] BLE- serveri Nordicilla
 - [ ] BLE- client Raspberryllä (bleak)
 - [ ] mittauksien tallennus MySQL:ään BLE:n kautta
-*Katariinan palvelin*
 
+*Katariinan palvelin*
+---
 *Liikenteen kaappaus ja analysointi*
 - [x] tcpdump- kaappaus portista 89
 - [x] pcap- tiedosto siirretty omalle koneelle
@@ -116,13 +124,16 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
      - [x] HTTP- vastauksen content- type
      - [x] HTTP- vastauksen server
 - [x]  selaimen devtoolseja kokeiltu
-*Katariinan palvelin*
 
+*Katariinan palvelin*
+---
 *Python HTTP- client*
 - [x]  HTTP GET -> CSV (requests-lib)
 - [x]  Tallennus groupid-data.csv
 - [x]  testattu
+
 *Katariinan palvelin*
+---
 
 *Python TCP- client*
 - [x] Socket yhteys porttiin 20000
@@ -131,15 +142,17 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] tallentaa tiedostoksi
 - [x] testattu
 - [x] wireshark- analyysi tcp- siirrosta
-*Katariinan palvelin*
 
+*Katariinan palvelin*
+---
 *SSH- avaimet*
 - [x] ed25519- avainpari
 - [x] julkinen avain palvelimelle
 - [x] PasswordAuthentication pois
 - [x] testattu -> SSH toimii vain avaimella
-*Katariinan palvelin*
 
+*Katariinan palvelin*
+---
 **Viikko 4**
 - [x] Katso lisenssivideo ja lue lisenssikalvot
 - [x] Julkiset APIt ja Cataas
@@ -147,7 +160,9 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] Oulun liikenteen GraphQL (POST)
 - [x] Python TCP- socket client
 - [x] Wireshark (TCP- client analyysi)
+
 *Katariinan palvelin*
+---
 **Viikko 5**
 *Karin tehtäviä*
 - [ ] Katariina
