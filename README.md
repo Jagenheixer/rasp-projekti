@@ -28,7 +28,7 @@ Asennettu **Apache2**-palvelin Ubuntu Serverille ja testattu selaimilla:
 Apache näytti onnistuneesti oletussivunsa:  
 > *"It works!"*
 
-*Katariinan palvelin*
+
 ---
 
 ##  Sivun muokkaus
@@ -67,6 +67,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] Markdown perusteet
 - [x] Videot ja Git/Github kurssit
 - [x] Projektin kuvaus ja repositorion rakenteen luonti
+---
 
 *Katariinan palvelin*
 ---
@@ -87,7 +88,6 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] firewall.sh pushattu Githubii
 - [x] testattu että Tiina pääsee MYSQL:ään
 
-
 ---
 *Apache + PHP + MySQL*
 - [x] Apache 2 asennettu
@@ -98,14 +98,12 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] rawdata- taulun data näkyy oikein
 - [x] virhee debugattu (PDO, bind-address, config polut yms)
 
-
 ---
 *Python -> MySQL
 - [x] Python virtuaaliympäristö luotu
 - [x] mysql-connector-python asennettu
 - [x] testisensori-skripti (rasp_insert_testi_data.py) toimii
 - [x] data näkyy rawdata- taulussa ja luedataa.php sivulla
-
 
 ---
 *BLE -> Raspberry -> MySQL (oikea anturi)
@@ -114,7 +112,6 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [ ] BLE- serveri Nordicilla
 - [ ] BLE- client Raspberryllä (bleak)
 - [ ] mittauksien tallennus MySQL:ään BLE:n kautta
-
 
 ---
 *Liikenteen kaappaus ja analysointi*
@@ -126,13 +123,11 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
      - [x] HTTP- vastauksen server
 - [x]  selaimen devtoolseja kokeiltu
 
-
 ---
 *Python HTTP- client*
 - [x]  HTTP GET -> CSV (requests-lib)
 - [x]  Tallennus groupid-data.csv
 - [x]  testattu
-
 
 ---
 
@@ -144,14 +139,12 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] testattu
 - [x] wireshark- analyysi tcp- siirrosta
 
-
 ---
 *SSH- avaimet*
 - [x] ed25519- avainpari
 - [x] julkinen avain palvelimelle
 - [x] PasswordAuthentication pois
 - [x] testattu -> SSH toimii vain avaimella
-
 
 ---
 **Viikko 4**
