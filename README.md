@@ -72,7 +72,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] Karin tehtävät / Katariina
 - [x] Karin tehtävät / Tiina
 ---
-*Katariinan palvelin*
+
 **Viikko 3**
 - [x]  Raspberry Pi asennettu ja liitetty labran verkkoon
 - [x]  SSH- yhteys testattu onnistuneesti
