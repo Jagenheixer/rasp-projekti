@@ -21,7 +21,8 @@ Kerättyä dataa haetaan HTTP-rajapinnan kautta omalle kannettavalle kehitetyn *
 
 Asennettu **Apache2**-palvelin Ubuntu Serverille ja testattu selaimilla:
 
- [http://172.20.241.37/](http://172.20.241.37/) *Katariinan palvelin*
+ [http://172.20.241.37/](http://172.20.241.37/) 
+ ---
  [http://172.20.241.36/](http://172.20.241.36/)
 
 Apache näytti onnistuneesti oletussivunsa:  
