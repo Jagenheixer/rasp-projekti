@@ -131,6 +131,15 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] PasswordAuthentication pois
 - [x] testattu -> SSH toimii vain avaimella
 
+**Viikko 4**
+- [x] Katso lisenssivideo ja lue lisenssikalvot
+- [x] Julkiset APIt ja Cataas
+- [] Thunder Client - REST API testaus
+- [] Oulun liikenteen GraphQL (POST)
+- [] Python TCP- socket client
+- [] Wireshark (TCP- client analyysi)
+
+ 
 ##  Yhteenveto
 
 nnnnnnn
