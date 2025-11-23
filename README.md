@@ -86,7 +86,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] firewall.sh pushattu Githubii
 - [x] testattu että Tiina pääsee MYSQL:ään
 
-*Katariinan palvelin*
+
 ---
 *Apache + PHP + MySQL*
 - [x] Apache 2 asennettu
@@ -97,7 +97,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] rawdata- taulun data näkyy oikein
 - [x] virhee debugattu (PDO, bind-address, config polut yms)
 
-*Katariinan palvelin*
+
 ---
 *Python -> MySQL
 - [x] Python virtuaaliympäristö luotu
@@ -105,7 +105,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] testisensori-skripti (rasp_insert_testi_data.py) toimii
 - [x] data näkyy rawdata- taulussa ja luedataa.php sivulla
 
-*Katariinan palvelin*
+
 ---
 *BLE -> Raspberry -> MySQL (oikea anturi)
 - [x] Nordic nRF5340dk asennettu
@@ -114,7 +114,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [ ] BLE- client Raspberryllä (bleak)
 - [ ] mittauksien tallennus MySQL:ään BLE:n kautta
 
-*Katariinan palvelin*
+
 ---
 *Liikenteen kaappaus ja analysointi*
 - [x] tcpdump- kaappaus portista 89
@@ -125,14 +125,14 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
      - [x] HTTP- vastauksen server
 - [x]  selaimen devtoolseja kokeiltu
 
-*Katariinan palvelin*
+
 ---
 *Python HTTP- client*
 - [x]  HTTP GET -> CSV (requests-lib)
 - [x]  Tallennus groupid-data.csv
 - [x]  testattu
 
-*Katariinan palvelin*
+
 ---
 
 *Python TCP- client*
@@ -143,7 +143,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] testattu
 - [x] wireshark- analyysi tcp- siirrosta
 
-*Katariinan palvelin*
+
 ---
 *SSH- avaimet*
 - [x] ed25519- avainpari
@@ -151,7 +151,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] PasswordAuthentication pois
 - [x] testattu -> SSH toimii vain avaimella
 
-*Katariinan palvelin*
+
 ---
 **Viikko 4**
 - [x] Katso lisenssivideo ja lue lisenssikalvot
@@ -161,7 +161,6 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [x] Python TCP- socket client
 - [x] Wireshark (TCP- client analyysi)
 
-*Katariinan palvelin*
 ---
 **Viikko 5**
 *Karin tehtäviä*
