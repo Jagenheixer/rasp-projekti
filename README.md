@@ -104,18 +104,18 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [ ] mittauksien tallennus MySQL:ään BLE:n kautta
 
 *Liikenteen kaappaus ja analysointi*
-- [ ] tcpdump- kaappaus portista 89
-- [ ] pcap- tiedosto siirretty omalle koneelle
-- [ ] Wireshark analyysi
-     - [ ] TCP handshake kesto
-     - [ ] HTTP- vastauksen content- type
-     - [ ] HTTP- vastauksen server
+- [x] tcpdump- kaappaus portista 89
+- [x] pcap- tiedosto siirretty omalle koneelle
+- [x] Wireshark analyysi
+     - [x] TCP handshake kesto
+     - [x] HTTP- vastauksen content- type
+     - [x] HTTP- vastauksen server
 - [ ]  selaimella jotain?
 
 *Python HTTP- client*
-- [ ]  HTTP GET -> CSV (requests-lib)
-- [ ]  Tallennus groupid-data.csv
-- [ ]  testattu
+- [x]  HTTP GET -> CSV (requests-lib)
+- [x]  Tallennus groupid-data.csv
+- [x]  testattu
 
 *Python TCP- client*
 - [ ] Socket yhteys porttiin 20000
@@ -126,10 +126,10 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 - [ ] wireshark- analyysi tcp- siirrosta
 
 *SSH- avaimet*
-- [ ] ed25519- avainpari
-- [ ] julkinen avain palvelimelle
-- [ ] PasswordAuthentication pois
-- [ ] testattu -> SSH toimii vain avaimella
+- [x] ed25519- avainpari
+- [x] julkinen avain palvelimelle
+- [x] PasswordAuthentication pois
+- [x] testattu -> SSH toimii vain avaimella
 
 ##  Yhteenveto
 
