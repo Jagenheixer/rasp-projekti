@@ -134,8 +134,8 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 **Viikko 4**
 - [x] Katso lisenssivideo ja lue lisenssikalvot
 - [x] Julkiset APIt ja Cataas
-- [ ] Thunder Client - REST API testaus
-- [ ] Oulun liikenteen GraphQL (POST)
+- [x] Thunder Client - REST API testaus
+- [x] Oulun liikenteen GraphQL (POST)
 - [ ] Python TCP- socket client
 - [ ] Wireshark (TCP- client analyysi)
 
