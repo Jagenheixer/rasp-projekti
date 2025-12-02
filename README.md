@@ -52,7 +52,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 
 ## Arkkitehtuurikuva
 
-![Arkkitehtuurikuva](https://github.com/Jagenheixer/rasp-projekti/blob/main/arkkitehtuuri.png)
+![Arkkitehtuurikuva](https://github.com/Jagenheixer/rasp-projekti/blob/linux-testailut/arkkitehtuuri.png)
 
 ---
 
