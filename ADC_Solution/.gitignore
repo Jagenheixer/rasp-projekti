@@ -1,0 +1,32 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Zephyr build directories
+build/
+build-*/
+zephyr/
+modules/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+*.cmake
+
+# Object files / binaries
+*.o
+*.d
+*.a
+*.elf
+*.hex
+*.bin
+*.map
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
