@@ -71,6 +71,10 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 **Viikko 2**
 - [x] Karin tehtävät / Katariina
 - [x] Karin tehtävät / Tiina
+- [x] Bluetooth Low Energy Fundamentals-kurssin sertifikaatti
+- [x] ADC-ohjelmaan tutustuminen
+- [x] Datan lähettäminen BLE:n yli
+- [x] ADC + BLE-integraatio
 ---
 
 **Viikko 3**
@@ -154,12 +158,14 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 *Karin tehtäviä*
 - [ ] Katariina
 - [ ] Tiina
+- [ ] Pythonilla tehty K-means-luokittelija (luotu testidata käy, oma kerätty sensoridata ei välttämätön)
 
 ---
 **Viikko 6**
 *Karin tehtäviä*
 - [ ] Katariina
 - [ ] Tiina
+- [ ] K-means-luokittelija-algoritmin toteutus nRF5340DK-alustalla
 
 ---
 ##  Yhteenveto
