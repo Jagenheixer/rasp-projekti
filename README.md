@@ -157,7 +157,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 **Viikko 5**
 *Karin tehtäviä*
 - [ ] Katariina
-- [ ] Tiina
+- [x] Tiina
 - [ ] Pythonilla tehty K-means-luokittelija (luotu testidata käy, oma kerätty sensoridata ei välttämätön)
 
 ---
