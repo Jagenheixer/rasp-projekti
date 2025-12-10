@@ -14,6 +14,23 @@ Tietokantaan tallentuvaan dataan on käytettävissä:
 
 Kerättyä dataa haetaan HTTP-rajapinnan kautta omalle kannettavalle kehitetyn **Python-ohjelman** avulla, ja sitä käsitellään **koneoppimista** varten.
 
+**Projektissa yhdistyvät siis:**
+- IoT-laitteet
+- Langaton tiedonsiirto
+- Palvelinympäristö
+- Tietokannat
+- Web- ja socket-rajapinnat
+- Koneoppimisen perusalgoritmit
+- Verkkoliikenteen analysointi
+
+**Käytetyt teknologiat:**
+- Laitteisto: nRF5340DK, Raspberry Pi
+- Ohjelmointi: C, Python, PHP
+- Protokollat: BLE, TCP, HTTP
+- Palvelut: Apache2, MySQL
+- Analyysi: Wireshark, tcpdump
+- Koneoppiminen: K-means, confusion matrix
+
 ---
 
 
@@ -55,8 +72,26 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 ![Arkkitehtuurikuva](https://github.com/Jagenheixer/rasp-projekti/blob/linux-testailut/arkkitehtuuri.png)
 
 ---
+##  K-means -luokittelija ja toimintaperiaate
+**Python K-means -luokittelija**
 
+- K-means-algoritmi toteutettu Pythonilla
+- Käytössä testidata (tai vaihtoehtoisesti oikea sensoridata)
+- Klusterointi kolmiulotteisessa avaruudessa (x, y, z)
+- Tulosten validointi confusion matrixin avulla
 
+**K-means-algoritmin toimintaperiaate**
+
+K-means on oppimismenetelmä, joka:
+- Valitsee satunnaiset keskipisteet (k = klustereiden määrä)
+- Laskee jokaisen mittauspisteen etäisyyden keskipisteisiin
+- Liittää pisteen lähimpään klusteriin
+- Päivittää keskipisteet
+- Toistaa, kunnes tulos vakautuu
+
+![3D-kuva](https://github.com/Jagenheixer/rasp-projekti/blob/linux-testailut/kmeans_kluster.png)
+
+---
 ##  Projektin eteneminen
 **Viikko 1.**
 - [x] Github repo luotu
@@ -158,7 +193,7 @@ Muokattu oletussivua (`index.html`) ja luotu yksinkertainen oma HTML-sivun.
 *Karin tehtäviä*
 - [ ] Katariina
 - [x] Tiina
-- [ ] Pythonilla tehty K-means-luokittelija (luotu testidata käy, oma kerätty sensoridata ei välttämätön)
+- [x] Pythonilla tehty K-means-luokittelija (luotu testidata käy, oma kerätty sensoridata ei välttämätön)
 
 ---
 **Viikko 6**
