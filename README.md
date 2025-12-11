@@ -143,9 +143,9 @@ K-means on oppimismenetelmä, joka:
 *BLE -> Raspberry -> MySQL (oikea anturi)
 - [x] Nordic nRF5340dk asennettu
 - [x] BLE- kehitysympäristö aloitettu
-- [ ] BLE- serveri Nordicilla
+- [x] BLE- serveri Nordicilla
 - [x] BLE- client Raspberryllä (bleak)
-- [ ] mittauksien tallennus MySQL:ään BLE:n kautta
+- [x] mittauksien tallennus MySQL:ään BLE:n kautta
 
 
 *Liikenteen kaappaus ja analysointi*
@@ -191,7 +191,7 @@ K-means on oppimismenetelmä, joka:
 ---
 **Viikko 5**
 *Karin tehtäviä*
-- [ ] Katariina
+- [x] Katariina
 - [x] Tiina
 - [x] Pythonilla tehty K-means-luokittelija (luotu testidata käy, oma kerätty sensoridata ei välttämätön)
 
