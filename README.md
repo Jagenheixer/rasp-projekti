@@ -203,7 +203,8 @@ K-means on oppimismenetelmä, joka:
 - [x] K-means-luokittelija-algoritmin toteutus nRF5340DK-alustalla
 
 ---
-**Yhteenveto**
+## Yhteenveto
+
 Toteutimme kokonaisvaltaisen IoT- järjestelmän, jossa anturidataa kerätään sulautetulta laitteelta, välitetään verkon yli palvelimelle ja hyödynnetään jatkokäsittelyssä sekä analytiikassa. Projektin tavoitteena oli ymmärtää käytännössä IoT- järjestelmän eri osien yhteistoimintaa tietoliikenteen, ohjelmistokehityksen ja tietokantojen näkökulmasta.
 Järjestelmä koostuu anturilaitteesta (nRF), joka on suunniteltu mittaamaan esimerkiksi kiihtyvyysdataa. Aikataulullisista syistä projektissa ei kuitenkaan ehditty kerätä todellista anturidataa fyysiseltä laitteelta, vaan järjestelmän toiminnallisuus toteutettiin ja testattiin simuloidulla testidatalla. Testidata vastaa rakenteeltaan ja ominaisuuksiltaan todellista anturidataa, mikä mahdollisti koko tiedonsiirtoketjun ja järjestelmäarkkitehtuurin luotettavan testaamisen.
 Testidata lähetettiin IoT-reitittimelle (Raspberry Pi), joka toimi välikerroksena anturidatan ja taustajärjestelmien välillä. Raspberry Pi vastaanotti datan ja välitti sen eteenpäin palvelimelle HTTP-rajapinnan kautta.
