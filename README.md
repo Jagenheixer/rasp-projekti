@@ -210,8 +210,9 @@ Järjestelmä koostuu anturilaitteesta (nRF), joka on suunniteltu mittaamaan esi
 Testidata lähetettiin IoT-reitittimelle (Raspberry Pi), joka toimi välikerroksena anturidatan ja taustajärjestelmien välillä. Raspberry Pi vastaanotti datan ja välitti sen eteenpäin palvelimelle HTTP-rajapinnan kautta.
 Palvelinpuolella data tallennettiin MySQL-tietokantaan rakenteellisessa muodossa. Tietokantaa hyödynnettiin sekä tiedon tallennukseen että myöhempään käsittelyyn. Projektissa toteutettiin yksinkertainen HTTP API, jonka avulla dataa voidaan hakea tietokannasta ulkopuolisilla sovelluksilla.
 Tallennettua testidataa haettiin erillisellä Python-client-ohjelmalla, jossa dataa käsiteltiin jatkokäyttöä varten. Python-ohjelmaa käytettiin datan esikäsittelyyn ja se loi pohjan koneoppimismallien hyödyntämiselle.
-![tietoliikennesovellusprojekti_posteri_R14](https://github.com/user-attachments/assets/11fa1190-304d-424d-a229-1b25704f38a1)
 
+
+![lopullinenposterir14](https://github.com/user-attachments/assets/a6279f37-a86c-4115-8f51-fcc8c434c4ed)
 
 ---
 ## Lisenssi
